@@ -2,5 +2,15 @@
 <resources>
   <color name="colorPrimary">#3F51B5</color>
   <color name="colorPrimaryDark">#303F9F</color>
-  <color name="colorAccent">#FF4081</color>
+  <color name="colorAccent">@color/colorGreyEdit</color>
+  <color name="colorWhite">#FFFFFF</color>
+
+  <color name="colorRed">#FB6960</color>
+  <color name="colorRedPressed">#C2185B</color>
+  <color name="colorDisable">#CCCCCC</color>
+
+
+  <color name="colorGreyEdit">#9E9E9E</color>
+
+  <color name="colorTextEdit">#616161</color>
 </resources>

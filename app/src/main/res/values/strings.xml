@@ -1,4 +1,9 @@
 <resources>
   <string name="app_name">Login-animation</string>
   <string name="action_settings">Settings</string>
+  
+  
+  <!-- Main Activity -->
+  <string name="main_continue">CONTINUE</string>
+  <string name="main_enter_email">Enter your email</string>
 </resources>
