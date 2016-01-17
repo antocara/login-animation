@@ -4,9 +4,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.Transformation;
 
-/**
- * Created by antocara on 15/1/16.
- */
+
 public class HeightAnimation extends Animation {
   protected final int originalHeight;
   protected final View view;

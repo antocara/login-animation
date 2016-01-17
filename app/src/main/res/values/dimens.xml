@@ -7,4 +7,7 @@
 
   <dimen name="text_button">16sp</dimen>
   <dimen name="text_normal">14sp</dimen>
+
+
+  <dimen name="view_height">48dp</dimen>
 </resources>
